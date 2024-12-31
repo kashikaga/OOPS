@@ -1,4 +1,4 @@
-# Object-Oriented Programming Concepts
+# Object Oriented Programming Concepts
 
 Object-Oriented Programming (OOP) concepts are crucial for designing systems in the object-oriented programming model. Understanding these concepts simplifies software development and maintenance.
 
