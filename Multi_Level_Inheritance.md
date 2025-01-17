@@ -1,7 +1,7 @@
 
 ## Java Multi Level Inheritance Example
 
-This example demonstrates the concept of inheritance in Java, showcasing how a derived class (`Dog`) inherits properties and methods from its parent classes (`Mammal` and `Animal`).
+This example demonstrates the concept of multi level inheritance in Java
 
 ```
 public class JavaBasics {
@@ -56,5 +56,4 @@ public class JavaBasics {
   - Calls the inherited `eat()` method from the `Animal` class.
   - Sets the number of legs to 4 and prints this value.
 
-This structure illustrates how inheritance enables code reuse and establishes a hierarchical relationship between classes.
-
+This structure illustrates how inheritance enables code reuse.
