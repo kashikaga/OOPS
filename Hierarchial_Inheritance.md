@@ -47,6 +47,29 @@ class Bird extends Animal {
     }
 }
 ```
+The code demonstrates a simple example of inheritance in Java, where a base class `Animal` is extended by three derived classes: `Mammal`, `Fish`, and `Bird`. Here's a breakdown of how it works:
 
-Each instance (m, f, and b) calls the eat() method, which is defined in the base class (Animal).
-Since all three derived classes (Mammal, Fish, and Bird) inherit this method, they all produce the same output when eat() is called.
+1. **Base Class: `Animal`**
+   - Contains the attributes and behaviors common to all animals (`color`, `eat`, and `breathe`).
+
+2. **Derived Classes:**
+   - `Mammal`: Adds the `walk` method.
+   - `Fish`: Adds the `swim` method.
+   - `Bird`: Adds the `fly` method.
+
+3. **Main Class: `JavaInheritance`**
+   - Creates objects of the derived classes (`Mammal`, `Fish`, and `Bird`).
+   - Calls the `eat` method inherited from the `Animal` class on each object.
+
+### Output
+When you run this program, the output will be:
+```
+eats
+eats
+eats
+```
+
+This happens because the `eat` method is inherited from the `Animal` class and is not overridden in any of the derived classes.
+
+
+
