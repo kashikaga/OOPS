@@ -20,4 +20,4 @@ There are different types of inheritance, including:
 3. **Hierarchical Inheritance**
 4. **Hybrid Inheritance**
 
-Multiple inheritance is implemented using the concept of inheritance in Java.
+Multiple inheritance is implemented using the concept of interfaces in Java.
