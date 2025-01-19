@@ -1,4 +1,3 @@
-
 ## Understanding Abstraction in Object-Oriented Programming (OOP)
 
 Abstraction is a fundamental concept in Object-Oriented Programming (OOP) that involves hiding the complex implementation details of a system while exposing only the essential features to the user. This allows users to interact with objects or systems without needing to understand their inner workings. 
