@@ -4,6 +4,7 @@ Static keyword in Java is used to share the same variable or method of a given c
 -Blocks
 -Nested Classes
 
+
 block
 main{
 {
